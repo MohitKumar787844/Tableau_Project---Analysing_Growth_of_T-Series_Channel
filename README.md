@@ -7,4 +7,4 @@
 ###### 5) After that I made a story which tells us about the growth of the channel in 2020 and the impact of COVID-19 on the growth of the channel.
 
 <h1>Access Links:</h1>
-<a href="https://prod-apnortheast-a.online.tableau.com/t/mohitkumar787844/views/T-SeriesProject-MohitKumar_16678246843740/Growth" target="_blank" >T-Series Dashboard</a>
+<a href="https://prod-apnortheast-a.online.tableau.com/t/mohitkumar787844/views/T-SeriesProject-MohitKumar_16678246843740/Growth" target="_blank" style="color:white;">T-Series Dashboard</a>
